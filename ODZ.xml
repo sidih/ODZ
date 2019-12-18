@@ -573,19 +573,19 @@
                            <head>§ 24.</head>
                            <p>Smrt odsotnika se domneva:</p>
                            <list rend="numbered">
-                              <item>Ako je preteklo <hi rend="underline">sedemdeset</hi> let od
+                              <item n="1">Ako je preteklo <hi rend="underline">sedemdeset</hi> let od
                                  njegovega rojstva in <hi rend="underline">pet let od zadnjega
                                     poročila, da še živi, ali ako je preteklo trideset let od
                                     njegovega rojstva in deset let od zadnjega poročila — roki petih
                                     in desetih let računjeni od završetka zadnjega leta, v katerem
                                     je še živel po poročilih, kar jih je;</hi>
                               </item>
-                              <item>ako je bil v vojni težko ranjen <hi rend="underline">ali je
+                              <item n="2">ako je bil v vojni težko ranjen <hi rend="underline">ali je
                                     pogrešan kot udeležnik v vojni</hi> in so pretekla tri leta od
                                     <hi rend="underline">završetka leta, v katerem je prenehala
                                     vojna, brez poročila o njegovem življenju;</hi>
                               </item>
-                              <item>ako je bil na <hi rend="underline">potopljeni ladji</hi> ali v
+                              <item n="3">ako je bil na <hi rend="underline">potopljeni ladji</hi> ali v
                                  kakšni drugi bližnji smrtni nevarnosti in je pogrešan tri leta <hi
                                     rend="underline">od završetka leta, v katerem se je to zgodilo.
                                     Da se je ladja potopila, se domneva, ako ni prispela na mesto
@@ -616,17 +616,17 @@
                                  okolnostmi:</hi>
                            </p>
                            <list rend="numbered">
-                              <item>
+                              <item n="1">
                                  <hi rend="italic">ako je pretekla od njegovega rojstva doba
                                     osemdesetih let in je ostal kraj njegovega bivališča deset let
                                     neznan;</hi>
                               </item>
-                              <item>
+                              <item n="2">
                                  <hi rend="italic underline">ne glede na dobo od njegovega
                                     rojstva</hi>
                                  <hi rend="italic">, ako je ostal trideset polnih let neznan;</hi>
                               </item>
-                              <item>
+                              <item n="3">
                                  <hi rend="italic">ako je bil v vojski težko ranjen ali, ako je bil
                                     na ladji, ko se je razbila, ali v dragi bližnji smrtni
                                     nevarnosti in se pogreša od tega časa dalje tri leta. V vseh teh
@@ -1778,12 +1778,12 @@
                            </p>
                         </div>
                      </lem>
+                     <note type="comment">
+                        <p>
+                           <hi rend="bold">Prejšnje besedilo:</hi>
+                        </p>
+                     </note>
                      <rdg wit="#ODZ-orig">
-                        <note type="comment">
-                           <p>
-                              <hi rend="bold">Prejšnje besedilo:</hi>
-                           </p>
-                        </note>
                         <div type="paragraph">
                            <head>§ 138.</head>
                            <p>
@@ -1837,17 +1837,17 @@
                            </p>
                         </div>
                      </lem>
-                     <rdg wit="#ODZ-orig">
-                        <note type="comment">Določbe § 6 odst. 2 je uporabiti tudi tedaj, kadar je
-                           vzgoja otrok urejena z dogovorom zakoncev ali s sodno odredbo, preden je
-                           prišel v veljavo ta cesarski ukaz. <bibl>(Nov. I, § 7.)</bibl>
-                        </note>
+                     <note type="comment">Določbe § 6 odst. 2 je uporabiti tudi tedaj, kadar je
+                        vzgoja otrok urejena z dogovorom zakoncev ali s sodno odredbo, preden je
+                        prišel v veljavo ta cesarski ukaz. <bibl>(Nov. I, § 7.)</bibl>
+                     </note>
+                     <note type="comment">
                         <pb/>
-                        <note type="comment">
-                           <p>
-                              <hi rend="bold">Prejšnje besedilo:</hi>
-                           </p>
-                        </note>
+                        <p>
+                           <hi rend="bold">Prejšnje besedilo:</hi>
+                        </p>
+                     </note>
+                     <rdg wit="#ODZ-orig">
                         <div type="paragraph">
                            <head>§ 142.</head>
                            <p>
@@ -1956,12 +1956,12 @@
                                  </p>
                               </div>
                            </lem>
+                           <note type="comment">
+                              <p>
+                                 <hi rend="bold">Prejšnje besedilo:</hi>
+                              </p>
+                           </note>
                            <rdg wit="#ODZ-orig">
-                              <note type="comment">
-                                 <p>
-                                    <hi rend="bold">Prejšnje besedilo:</hi>
-                                 </p>
-                              </note>
                               <div type="paragraph">
                                  <head>§ 153.</head>
                                  <p>
@@ -2032,12 +2032,12 @@
                            </div>
                            <pb/>
                         </lem>
+                        <note type="comment">
+                           <p>
+                              <hi rend="bold">Prejšnje besedilo:</hi>
+                           </p>
+                        </note>
                         <rdg wit="#ODZ-orig">
-                           <note type="comment">
-                              <p>
-                                 <hi rend="bold">Prejšnje besedilo:</hi>
-                              </p>
-                           </note>
                            <div type="paragraph">
                               <head>§ 158.</head>
                               <p>
@@ -2072,12 +2072,12 @@
                               </p>
                            </div>
                         </lem>
+                        <note type="comment">
+                           <p>
+                              <hi rend="bold">Prejšnje besedilo:</hi>
+                           </p>
+                        </note>
                         <rdg wit="#ODZ-orig">
-                           <note type="comment">
-                              <p>
-                                 <hi rend="bold">Prejšnje besedilo:</hi>
-                              </p>
-                           </note>
                            <div type="paragraph">
                               <head>§ 159.</head>
                               <p>
@@ -2174,11 +2174,11 @@
                         zakonitem predpisu s privoljenjem očetovim in je to privoljenje potrjeno z
                         izpričevalom dušnega pastirja in botra s pristavkom, da jima je oče osebno
                         znan.</p>
+                     <note type="comment">Voditelji matic morajo naznaniti okrajnemu sodišču svojega
+                        službenega kraja in, ako se razteza matični okraj na več sodnih okrajev,
+                        vsakemu posameznemu teh sodišč občasne sezname nezakonskih porodov, kar jih je
+                        bilo v okraju. (Nov. I, § 15.)</note>
                   </div>
-                  <note type="comment">Voditelji matic morajo naznaniti okrajnemu sodišču svojega
-                     službenega kraja in, ako se razteza matični okraj na več sodnih okrajev,
-                     vsakemu posameznemu teh sodišč občasne sezname nezakonskih porodov, kar jih je
-                     bilo v okraju. (Nov. I, § 15.)</note>
                </div>
                <pb/>
                <div type="section">
@@ -2200,12 +2200,12 @@
                            </p>
                         </div>
                      </lem>
+                     <note type="comment">
+                        <p>
+                           <hi rend="bold">Prejšnje besedilo:</hi>
+                        </p>
+                     </note>
                      <rdg wit="#ODZ-orig">
-                        <note type="comment">
-                           <p>
-                              <hi rend="bold">Prejšnje besedilo:</hi>
-                           </p>
-                        </note>
                         <div type="paragraph">
                            <head>§ 165.</head>
                            <p>
@@ -2235,12 +2235,12 @@
                         </div>
                         <pb/>
                      </lem>
+                     <note type="comment">
+                        <p>
+                           <hi rend="bold">Prejšnje besedilo:</hi>
+                        </p>
+                     </note>
                      <rdg wit="#ODZ-orig">
-                        <note type="comment">
-                           <p>
-                              <hi rend="bold">Prejšnje besedilo:</hi>
-                           </p>
-                        </note>
                         <div type="paragraph">
                            <head>§ 166.</head>
                            <p>
